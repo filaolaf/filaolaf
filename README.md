@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=filaolaf&show_icons=true&theme=github_dark)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=filaolaf&langs_count=8&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=filaolaf&theme=tokyonight&margin-w=10)
