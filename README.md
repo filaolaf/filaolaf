@@ -4,5 +4,5 @@ I'm a Second year Computer Science Student at Newcastle University with an inter
 
 ### 📊 GitHub Stats
 
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=filaOlaf&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filaOlaf&layout=compact)
