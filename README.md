@@ -1,6 +1,6 @@
 ## Hi! I'm Olaf 👋
 
-I'm a second-year Computer Science student at Newcastle University with a passion for **Data Science** — especially **data visualization** — and an emerging interest in **Quantum Computing**.
+I'm a second-year Computer Science student at Newcastle University with a passion for **Data Science** — especially **data visualization**.
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=filaolaf&show_icons=true&theme=github_dark)
