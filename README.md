@@ -1,6 +1,6 @@
 ## Hi! I'm Olaf 👋
 
-I'm a third-year Computer Science student at Newcastle University with a passion for **Data Science** — especially **data visualization**.
+I'm a MSc Advanced Data Science student at Newcastle University with a passion for **Data Science** — especially **data visualization**.
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=filaolaf&show_icons=true&theme=github_dark)
